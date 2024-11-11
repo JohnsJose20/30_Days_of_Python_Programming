@@ -1,6 +1,3 @@
-# Creating Day 2 task in the specified markdown format
-
-markdown_content_day2 = """
 # Day 2: Basic Arithmetic Operations
 ## *Task*: Perform basic arithmetic operations using Python.
 
