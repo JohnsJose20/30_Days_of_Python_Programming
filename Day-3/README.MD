@@ -1,27 +1,55 @@
-# Day 3 - Check for Positive, Negative, or Zero
+# Day 3 - String Problems 
 
-In this program, we will check whether a given number is positive, negative, or zero.
+## Task 1: Count the Number of Characters in a String
 
-## Python Code:
+### Problem
+Write a function that returns the number of characters in a given string.
 
-```python
-# Asking the user to input a number
-num = float(input("Enter a number: "))
+### Example
 
-# Checking if the number is positive, negative, or zero
-if num > 0:
-    print("The number is positive.")
-elif num < 0:
-    print("The number is negative.")
-else:
-    print("The number is zero.")
+#### Example 1:
+**Input:**  
+`hello`
 
-# Example:
-# Input: -5
-# Output: The number is negative.
+**Output:**  
+`5`
 
-# Input: 0
-# Output: The number is zero.
+#### Example 2:
+**Input:**  
+`world`
 
-# Input: 10
-# Output: The number is positive.
+**Output:**  
+`5`
+
+### Instructions
+- Implement a function that takes a string and returns the number of characters.
+- An empty string should return `0`.
+
+---
+
+## Task 2: Combine Two Strings Together
+
+### Problem
+Write a function that combines two strings together and returns the result.
+
+### Example
+
+#### Example 1:
+**Input:**  
+`hello`, `world`
+
+**Output:**  
+`helloworld`
+
+#### Example 2:
+**Input:**  
+`abc`, `123`
+
+**Output:**  
+`abc123`
+
+### Instructions
+- Implement a function that takes two strings as input and returns their concatenation.
+- The function should return the combined string without any additional spaces or characters.
+
+---
