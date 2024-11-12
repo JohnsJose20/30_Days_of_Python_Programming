@@ -4,6 +4,25 @@
 *Description*:
 In Python, you can use arithmetic operators to perform basic math operations like addition, subtraction, multiplication, and division. These operators can be applied to numbers directly or variables holding numerical values.
 
+*Example* Task 1:
+```python
+# Performing basic arithmetic operations
+a = 10
+b = 5
+
+# Addition
+print(a + b)  # Output: 15
+
+# Subtraction
+print(a - b)  # Output: 5
+
+# Multiplication
+print(a * b)  # Output: 50
+
+
+# Division
+print(a / b)  # Output: 2.0
+```
 ---
 
 ## *Task*2: Check for Positive, Negative, or Zero
@@ -11,10 +30,10 @@ In Python, you can use arithmetic operators to perform basic math operations lik
 *Description*:
 In this program, we will check whether a given number is positive, negative, or zero.
 
-## Example:
+*Example* Task 2:
 
 ```python
-#Task 1:
+#Task 2:
 # Asking the user to input a number
 num = float(input("Enter a number: "))
 
@@ -38,21 +57,3 @@ else:
 -----
 
 
-*Example* Task2:
-```python
-# Performing basic arithmetic operations
-a = 10
-b = 5
-
-# Addition
-print(a + b)  # Output: 15
-
-# Subtraction
-print(a - b)  # Output: 5
-
-# Multiplication
-print(a * b)  # Output: 50
-
-
-# Division
-print(a / b)  # Output: 2.0
