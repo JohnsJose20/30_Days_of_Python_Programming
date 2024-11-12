@@ -1,5 +1,5 @@
 # Day 2: Basic Arithmetic Operations and Check for Positive, Negative, or Zero
-## *Task*1: Perform basic arithmetic operations using Python.
+## *Task* 1: Perform basic arithmetic operations using Python.
 
 *Description*:
 In Python, you can use arithmetic operators to perform basic math operations like addition, subtraction, multiplication, and division. These operators can be applied to numbers directly or variables holding numerical values.
@@ -25,7 +25,7 @@ print(a / b)  # Output: 2.0
 ```
 ---
 
-## *Task*2: Check for Positive, Negative, or Zero
+## *Task* 2: Check for Positive, Negative, or Zero
 
 *Description*:
 In this program, we will check whether a given number is positive, negative, or zero.
