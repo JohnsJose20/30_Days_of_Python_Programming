@@ -11,8 +11,4 @@ print("I love Python")
 
 Output: 
 I love Python
-# Multiplication
-print(a * b)  # Output: 50
 
-# Division
-print(a / b)  # Output: 2.0
