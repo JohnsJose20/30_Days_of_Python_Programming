@@ -1,4 +1,4 @@
-# Day 2 - Check for Positive, Negative, or Zero
+# Day 3 - Check for Positive, Negative, or Zero
 
 In this program, we will check whether a given number is positive, negative, or zero.
 
