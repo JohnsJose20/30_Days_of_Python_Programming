@@ -1,0 +1,10 @@
+'''Author:Johns Jose
+Date :21/11/2024
+
+'''
+
+number = float(input("Enter a number: "))
+if number > 10:
+    print(f"{number} is greater than 10.")
+else:
+    print(f"{number} is not greater than 10.")
